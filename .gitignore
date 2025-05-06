@@ -1,0 +1,16 @@
+# System and generated files.
+.DS_Store
+.sass-cache
+.cache
+
+# Directories.
+log/
+node_modules/
+public/
+cache
+
+# Files.
+result.xml
+npm-debug.log
+version.json
+gulp/version.json
